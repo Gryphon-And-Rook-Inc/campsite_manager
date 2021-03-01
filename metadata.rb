@@ -1,4 +1,4 @@
-name 'Campsite Manager'
+name 'campsite_manager'
 maintainer 'Stephen Higgins'
 maintainer_email 'stephen@gryphonandrook.com'
 license 'All Rights Reserved'
