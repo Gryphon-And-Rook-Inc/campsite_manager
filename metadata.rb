@@ -1,4 +1,4 @@
-name 'campsite_manager_setup'
+name 'opsworks_nodes'
 maintainer        'Gryphon & Rook Inc'
 license           'All rights reserved'
 description       'Setup Campsite Manager Server'
